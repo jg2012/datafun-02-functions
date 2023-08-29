@@ -1,0 +1,18 @@
+2023-08-29 10:27:58,981.dog_stats.INFO ==================================================
+2023-08-29 10:27:58,981.dog_stats.INFO Today is 2023-08-29 at 10:27 AM
+2023-08-29 10:27:58,981.dog_stats.INFO Running on: posix Darwin 22.6.0
+2023-08-29 10:27:58,981.dog_stats.INFO Python version:  3.11.4
+2023-08-29 10:27:58,981.dog_stats.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
+2023-08-29 10:27:58,981.dog_stats.INFO Working dir: /Users/joseguzman/Library/CloudStorage/OneDrive-nwmissouri.edu/Fall1/CSIS_44608/Mod 2/Discussions/datafun-02-functions
+2023-08-29 10:27:58,981.dog_stats.INFO ==================================================
+2023-08-29 10:28:28,753.dog_stats.INFO temp_1 = 10.0
+2023-08-29 10:28:28,754.dog_stats.INFO temp_2 = 16.0
+2023-08-29 10:28:28,754.dog_stats.INFO temp_3 = 24.0
+2023-08-29 10:28:28,754.dog_stats.INFO The sum is 50.0.
+2023-08-29 10:28:28,754.dog_stats.INFO The average is 16.67.
+2023-08-29 10:28:28,754.dog_stats.INFO The product is 3840.0.
+2023-08-29 10:28:28,754.dog_stats.INFO The smallest is 10.0.
+2023-08-29 10:28:28,754.dog_stats.INFO The largest is 24.0.
+2023-08-29 10:28:28,754.dog_stats.INFO The range is 14.0.
+2023-08-29 10:28:28,755.dog_stats.INFO It's above freezing at the Doggy Daycare!
+2023-08-29 10:28:50,127.dog_stats.INFO Script complete. See log file for details.
