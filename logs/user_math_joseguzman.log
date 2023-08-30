@@ -1,0 +1,35 @@
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO ==================================================
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO Today is 2023-08-30 at 09:57 AM
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO Running on: posix Darwin 22.6.0
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO Python version:  3.11.4
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO Working dir: /Users/joseguzman/Library/CloudStorage/OneDrive-nwmissouri.edu/Fall1/CSIS_44608/Mod 2/Discussions/datafun-02-functions
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO ==================================================
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO Explore some functions in the math module
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO math.comb(5,1) = 5
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO math.perm(5,1) = 5
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO math.comb(6,2) = 15
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO math.perm(6,2) = 30
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO 
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO TRY: Call get_area_of_a_livingroom() function with a different values.
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO CALLING get_area_of_a_livingroom((11, 7))
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO The circle area is 77
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO CALLING get_area_of_a_livingroom((10, 8))
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO The circle area is 80
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO CALLING get_area_of_a_livingroom((12, 6))
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO The circle area is 72
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO 
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO TRY: Call get_bmi() with different values 
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO Calling get_bmi((160, 67))
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO The patients BMI is 25.05680552461573
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO 
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO TRY: Call get_f_from_c() with different values 
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO Calling get_f_from_c(37)
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO The patients temp is 98.60000000000001
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO Calling get_f_from_c(39)
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO The patients temp is 102.2
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO 
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO TRY: Call get_avg_weight() function with a list of patients weight
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO Calling get_avg_weight([160, 163, 162.5, 162, 161, 162])
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO The patients average weight is 161.75
+2023-08-30 09:57:49,101.user_math_joseguzman.INFO 
