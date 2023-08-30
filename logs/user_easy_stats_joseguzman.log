@@ -1,0 +1,23 @@
+2023-08-30 12:41:56,220.user_easy_stats_joseguzman.INFO ==================================================
+2023-08-30 12:41:56,220.user_easy_stats_joseguzman.INFO Today is 2023-08-30 at 12:41 PM
+2023-08-30 12:41:56,220.user_easy_stats_joseguzman.INFO Running on: posix Darwin 22.6.0
+2023-08-30 12:41:56,220.user_easy_stats_joseguzman.INFO Python version:  3.11.4
+2023-08-30 12:41:56,220.user_easy_stats_joseguzman.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
+2023-08-30 12:41:56,220.user_easy_stats_joseguzman.INFO Working dir: /Users/joseguzman/Library/CloudStorage/OneDrive-nwmissouri.edu/Fall1/CSIS_44608/Mod 2/Discussions/datafun-02-functions
+2023-08-30 12:41:56,220.user_easy_stats_joseguzman.INFO ==================================================
+2023-08-30 12:41:56,227.user_easy_stats_joseguzman.INFO xtimes = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+2023-08-30 12:41:56,228.user_easy_stats_joseguzman.INFO mean   = 6.50
+2023-08-30 12:41:56,228.user_easy_stats_joseguzman.INFO median = 6.50
+2023-08-30 12:41:56,228.user_easy_stats_joseguzman.INFO mode   = 1.00
+2023-08-30 12:41:56,228.user_easy_stats_joseguzman.INFO var    = 13.00
+2023-08-30 12:41:56,228.user_easy_stats_joseguzman.INFO stdev  = 3.61
+2023-08-30 12:41:56,228.user_easy_stats_joseguzman.INFO lowest = 1.00
+2023-08-30 12:41:56,229.user_easy_stats_joseguzman.INFO highest= 12.00
+2023-08-30 12:41:56,229.user_easy_stats_joseguzman.INFO yvalues = [2, 5, 8, 20, 21, 23, 24, 27, 30, 31, 31, 32]
+2023-08-30 12:41:56,229.user_easy_stats_joseguzman.INFO mean   = 21.17
+2023-08-30 12:41:56,229.user_easy_stats_joseguzman.INFO median = 23.50
+2023-08-30 12:41:56,229.user_easy_stats_joseguzman.INFO mode   = 31.00
+2023-08-30 12:41:56,229.user_easy_stats_joseguzman.INFO var    = 112.52
+2023-08-30 12:41:56,229.user_easy_stats_joseguzman.INFO stdev  = 10.61
+2023-08-30 12:41:56,229.user_easy_stats_joseguzman.INFO lowest = 2.00
+2023-08-30 12:41:56,229.user_easy_stats_joseguzman.INFO highest= 32.00
