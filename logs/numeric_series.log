@@ -1,7 +1,35 @@
-2023-08-29 11:20:02,823.numeric_series.INFO ==================================================
-2023-08-29 11:20:02,823.numeric_series.INFO Today is 2023-08-29 at 11:20 AM
-2023-08-29 11:20:02,823.numeric_series.INFO Running on: posix Darwin 22.6.0
-2023-08-29 11:20:02,823.numeric_series.INFO Python version:  3.11.4
-2023-08-29 11:20:02,823.numeric_series.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
-2023-08-29 11:20:02,823.numeric_series.INFO Working dir: /Users/joseguzman/Library/CloudStorage/OneDrive-nwmissouri.edu/Fall1/CSIS_44608/Mod 2/Discussions/datafun-02-functions
-2023-08-29 11:20:02,823.numeric_series.INFO ==================================================
+2023-08-30 12:58:11,502.numeric_series.INFO ==================================================
+2023-08-30 12:58:11,502.numeric_series.INFO Today is 2023-08-30 at 12:58 PM
+2023-08-30 12:58:11,502.numeric_series.INFO Running on: posix Darwin 22.6.0
+2023-08-30 12:58:11,502.numeric_series.INFO Python version:  3.11.4
+2023-08-30 12:58:11,502.numeric_series.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
+2023-08-30 12:58:11,502.numeric_series.INFO Working dir: /Users/joseguzman/Library/CloudStorage/OneDrive-nwmissouri.edu/Fall1/CSIS_44608/Mod 2/Discussions/datafun-02-functions
+2023-08-30 12:58:11,502.numeric_series.INFO ==================================================
+2023-08-30 12:58:11,502.numeric_series.INFO Created: NumericSeries with name=Quiz Scores Module 1, units=pts, and 6 data points: [9, 9, 10, 9, 7, 10]
+2023-08-30 12:58:11,502.numeric_series.INFO Created: NumericSeries with name=Quiz Scores Module 2, units=pts, and 8 data points: [8, 10, 8, 10, 8, 10, 10, 10]
+2023-08-30 12:58:11,502.numeric_series.INFO Created: NumericSeries with name=Quiz Scores Module 3, units=pts, and 4 data points: [7, 8, 9, 10]
+2023-08-30 12:58:11,503.numeric_series.INFO Created: NumericSeries with name=Quiz Scores Module 2, units=pts, and 8 data points: [10, 12, 6, 11, 9, 8, 7, 10]
+2023-08-30 12:58:11,503.numeric_series.INFO NumericSeries with name=Quiz Scores Module 1, units=pts, and 6 data points: [9, 9, 10, 9, 7, 10]
+2023-08-30 12:58:11,503.numeric_series.INFO Count: 6
+2023-08-30 12:58:11,503.numeric_series.INFO Sum: 54
+2023-08-30 12:58:11,503.numeric_series.INFO Mean: 9.0
+2023-08-30 12:58:11,503.numeric_series.INFO Median: 9.0
+2023-08-30 12:58:11,503.numeric_series.INFO ------------------
+2023-08-30 12:58:11,503.numeric_series.INFO NumericSeries with name=Quiz Scores Module 2, units=pts, and 8 data points: [8, 10, 8, 10, 8, 10, 10, 10]
+2023-08-30 12:58:11,503.numeric_series.INFO Count: 8
+2023-08-30 12:58:11,503.numeric_series.INFO Sum: 74
+2023-08-30 12:58:11,503.numeric_series.INFO Mean: 9.25
+2023-08-30 12:58:11,503.numeric_series.INFO Median: 10.0
+2023-08-30 12:58:11,503.numeric_series.INFO ------------------
+2023-08-30 12:58:11,503.numeric_series.INFO NumericSeries with name=Quiz Scores Module 3, units=pts, and 4 data points: [7, 8, 9, 10]
+2023-08-30 12:58:11,503.numeric_series.INFO Count: 4
+2023-08-30 12:58:11,503.numeric_series.INFO Sum: 34
+2023-08-30 12:58:11,503.numeric_series.INFO Mean: 8.5
+2023-08-30 12:58:11,503.numeric_series.INFO Median: 8.5
+2023-08-30 12:58:11,503.numeric_series.INFO ------------------
+2023-08-30 12:58:11,503.numeric_series.INFO NumericSeries with name=Quiz Scores Module 2, units=pts, and 8 data points: [10, 12, 6, 11, 9, 8, 7, 10]
+2023-08-30 12:58:11,503.numeric_series.INFO Count: 8
+2023-08-30 12:58:11,503.numeric_series.INFO Sum: 73
+2023-08-30 12:58:11,503.numeric_series.INFO Mean: 9.125
+2023-08-30 12:58:11,503.numeric_series.INFO Median: 9.5
+2023-08-30 12:58:11,503.numeric_series.INFO ------------------

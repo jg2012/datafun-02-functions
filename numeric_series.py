@@ -151,12 +151,19 @@ if __name__ == "__main__":
     
     object3 = NumericSeries(name3, units3, data3)
 
+    name4 = "Quiz Scores Module 2"
+    units4 = "pts"
+    data4 = [10, 12, 6, 11, 9, 8,7, 10]
+
+    object4 = NumericSeries(name4, units4, data4)
+
     # log the objects created
     logger.info(f"Created: {object1}")
     logger.info(f"Created: {object2}")
     logger.info(f"Created: {object3}")
+    logger.info(f"Created: {object4}")
 
-    object_list = [object1, object2, object3]
+    object_list = [object1, object2, object3, object4]
 
     # Loop through our objects and get some statistics
     # Rather than using a built-in function and passing in our data
